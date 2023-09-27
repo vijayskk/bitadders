@@ -1,0 +1,224 @@
+$date
+	Wed Sep 27 22:16:50 2023
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module testbench $end
+$var wire 1 ! s4 $end
+$var wire 1 " s3 $end
+$var wire 1 # s2 $end
+$var wire 1 $ s1 $end
+$var wire 1 % c $end
+$var reg 1 & a1 $end
+$var reg 1 ' a2 $end
+$var reg 1 ( a3 $end
+$var reg 1 ) a4 $end
+$var reg 1 * b1 $end
+$var reg 1 + b2 $end
+$var reg 1 , b3 $end
+$var reg 1 - b4 $end
+$var reg 1 . cin $end
+$scope module x1 $end
+$var wire 1 & a1 $end
+$var wire 1 ' a2 $end
+$var wire 1 ( a3 $end
+$var wire 1 ) a4 $end
+$var wire 1 * b1 $end
+$var wire 1 + b2 $end
+$var wire 1 , b3 $end
+$var wire 1 - b4 $end
+$var wire 1 . cin $end
+$var wire 1 ! y4 $end
+$var wire 1 " y3 $end
+$var wire 1 # y2 $end
+$var wire 1 $ y1 $end
+$var wire 1 / c3 $end
+$var wire 1 0 c2 $end
+$var wire 1 1 c1 $end
+$var wire 1 % c $end
+$scope module add1 $end
+$var wire 1 ) A $end
+$var wire 1 - B $end
+$var wire 1 1 c $end
+$var wire 1 . cin $end
+$var wire 1 2 y1 $end
+$var wire 1 3 z1 $end
+$var wire 1 4 x1 $end
+$var wire 1 ! s $end
+$scope module ex1 $end
+$var wire 1 ) A $end
+$var wire 1 - B $end
+$var wire 1 4 Y $end
+$var wire 1 5 a1 $end
+$var wire 1 6 b1 $end
+$var wire 1 7 c $end
+$var wire 1 8 d $end
+$upscope $end
+$scope module ex2 $end
+$var wire 1 4 A $end
+$var wire 1 . B $end
+$var wire 1 ! Y $end
+$var wire 1 9 a1 $end
+$var wire 1 : b1 $end
+$var wire 1 ; c $end
+$var wire 1 < d $end
+$upscope $end
+$upscope $end
+$scope module add2 $end
+$var wire 1 ( A $end
+$var wire 1 , B $end
+$var wire 1 0 c $end
+$var wire 1 1 cin $end
+$var wire 1 = y1 $end
+$var wire 1 > z1 $end
+$var wire 1 ? x1 $end
+$var wire 1 " s $end
+$scope module ex1 $end
+$var wire 1 ( A $end
+$var wire 1 , B $end
+$var wire 1 ? Y $end
+$var wire 1 @ a1 $end
+$var wire 1 A b1 $end
+$var wire 1 B c $end
+$var wire 1 C d $end
+$upscope $end
+$scope module ex2 $end
+$var wire 1 ? A $end
+$var wire 1 1 B $end
+$var wire 1 " Y $end
+$var wire 1 D a1 $end
+$var wire 1 E b1 $end
+$var wire 1 F c $end
+$var wire 1 G d $end
+$upscope $end
+$upscope $end
+$scope module add3 $end
+$var wire 1 ' A $end
+$var wire 1 + B $end
+$var wire 1 / c $end
+$var wire 1 0 cin $end
+$var wire 1 H y1 $end
+$var wire 1 I z1 $end
+$var wire 1 J x1 $end
+$var wire 1 # s $end
+$scope module ex1 $end
+$var wire 1 ' A $end
+$var wire 1 + B $end
+$var wire 1 J Y $end
+$var wire 1 K a1 $end
+$var wire 1 L b1 $end
+$var wire 1 M c $end
+$var wire 1 N d $end
+$upscope $end
+$scope module ex2 $end
+$var wire 1 J A $end
+$var wire 1 0 B $end
+$var wire 1 # Y $end
+$var wire 1 O a1 $end
+$var wire 1 P b1 $end
+$var wire 1 Q c $end
+$var wire 1 R d $end
+$upscope $end
+$upscope $end
+$scope module add4 $end
+$var wire 1 & A $end
+$var wire 1 * B $end
+$var wire 1 % c $end
+$var wire 1 / cin $end
+$var wire 1 S y1 $end
+$var wire 1 T z1 $end
+$var wire 1 U x1 $end
+$var wire 1 $ s $end
+$scope module ex1 $end
+$var wire 1 & A $end
+$var wire 1 * B $end
+$var wire 1 U Y $end
+$var wire 1 V a1 $end
+$var wire 1 W b1 $end
+$var wire 1 X c $end
+$var wire 1 Y d $end
+$upscope $end
+$scope module ex2 $end
+$var wire 1 U A $end
+$var wire 1 / B $end
+$var wire 1 $ Y $end
+$var wire 1 Z a1 $end
+$var wire 1 [ b1 $end
+$var wire 1 \ c $end
+$var wire 1 ] d $end
+$upscope $end
+$upscope $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+$end
+#0
+$dumpvars
+0]
+0\
+1[
+1Z
+0Y
+0X
+1W
+1V
+0U
+0T
+0S
+0R
+0Q
+1P
+1O
+0N
+0M
+1L
+1K
+0J
+0I
+0H
+0G
+1F
+1E
+0D
+0C
+1B
+1A
+0@
+1?
+0>
+0=
+0<
+1;
+1:
+09
+18
+07
+06
+15
+14
+03
+02
+01
+00
+0/
+0.
+1-
+0,
+0+
+0*
+0)
+1(
+0'
+0&
+0%
+0$
+0#
+1"
+1!
+$end
